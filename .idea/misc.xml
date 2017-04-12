@@ -7,42 +7,8 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
-  </component>
-  <component name="SbtLocalSettings">
-    <option name="modificationStamps">
-      <map>
-        <entry key="$USER_HOME$/Coursera/parprog1/reductions" value="1457623878000" />
-        <entry key="$USER_HOME$/Coursera/parprog1/scalashop" value="1464265020000" />
-        <entry key="$USER_HOME$/Coursera/progfun1/example" value="1459494774000" />
-        <entry key="$USER_HOME$/Coursera/progfun1/funsets" value="1462294640000" />
-        <entry key="$USER_HOME$/Coursera/progfun1/recfun" value="1462347530000" />
-        <entry key="$USER_HOME$/Coursera/progfun2/streams" value="1464261852000" />
-        <entry key="$USER_HOME$/Tugas Akhir/Program/subsistem-disposisi-otomatis" value="1484668309319" />
-        <entry key="$USER_HOME$/Workspace/scala-jsoup" value="1473155679105" />
-        <entry key="$USER_HOME$/akka-http" value="1485516193838" />
-        <entry key="$USER_HOME$/akka-http-circe-json" value="1485443533000" />
-        <entry key="$USER_HOME$/akka-sample-camel-scala" value="1484389628487" />
-        <entry key="$PROJECT_DIR$" value="1473155679000" />
-        <entry key="$PROJECT_DIR$/../sistem-pengirim-aduan" value="1485288312105" />
-        <entry key="$PROJECT_DIR$/../subsistem-disposisi-otomatis" value="1485276915377" />
-        <entry key="$PROJECT_DIR$/../ticketing-system" value="1485276874822" />
-        <entry key="$USER_HOME$/bootzooka-master" value="1485717856045" />
-        <entry key="$USER_HOME$/dev-play-app" value="1466265412372" />
-        <entry key="$USER_HOME$/event-bus-pub-sub" value="1483868976112" />
-        <entry key="$USER_HOME$/learning-finatra-slick-angular2-master" value="1453247403000" />
-        <entry key="$USER_HOME$/minimal-scala" value="1469554959911" />
-        <entry key="$USER_HOME$/play-scala" value="1484486589999" />
-        <entry key="$USER_HOME$/play-silhouette-seed-master" value="1464804229000" />
-        <entry key="$USER_HOME$/sistem-pengirim-aduan" value="1485285934360" />
-        <entry key="$USER_HOME$/slick-codegen-example-master" value="1466192457318" />
-        <entry key="$USER_HOME$/template-site-master" value="1466087252000" />
-      </map>
-    </option>
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
   </component>
   <component name="masterDetails">
     <states>
